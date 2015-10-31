@@ -6,6 +6,12 @@ fast build a guide pages
 
 HOW TO USE
 -----------
+```Java
+dependencies {
+    compile 'com.github.lcokean:fastguide:0.1'
+}
+```
+
 
 ```Java
 final GuidePage guidePage = new GuidePage();
