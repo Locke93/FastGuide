@@ -2,13 +2,16 @@
 fast build a guide pages
 快速新手引导页
 
+![image](https://github.com/lcokean/FastGuide/blob/master/art/1.gif)
+![image](https://github.com/lcokean/FastGuide/blob/master/art/2.gif)
+
  [ ![Download](https://api.bintray.com/packages/pengjian1993/maven/fastguide/images/download.svg) ](https://bintray.com/pengjian1993/maven/fastguide/_latestVersion)
 
 HOW TO USE
 -----------
 ```Java
 dependencies {
-    compile 'com.github.lcokean:fastguide:0.1'
+    compile 'com.github.lcokean:fastguide:0.2'
 }
 ```
 
