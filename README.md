@@ -9,6 +9,7 @@ fast build a guide pages
 
 HOW TO USE
 -----------
+Gradle:1.3.0
 ```Java
 dependencies {
     compile 'com.github.lcokean:fastguide:0.2'
